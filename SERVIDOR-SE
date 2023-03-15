@@ -65,21 +65,37 @@ http://lxls.mx:80/series/Sidneyteste/Sidney102040/291850.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E10" tvg-logo="http://lxls.mx:80/images/6d3cafcd54244cc1628462b753d33075.jpg" group-title="APPLE TV+",Fundação S01 E10
 http://lxls.mx:80/series/Sidneyteste/Sidney102040/291851.mp4
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E02" tvg-logo="http://ccdnblck.xyz:80/images/dee63dafb9cd784fbedb7a3387febad8.jpg" group-title="APPLE TV+",Fundação S01 E02
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E03" tvg-logo="http://ccdnblck.xyz:80/images/97facadef95d81b8410d19c1749e335d.jpg" group-title="APPLE TV+",Fundação S01 E03
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E04" tvg-logo="http://ccdnblck.xyz:80/images/1aebca6a0720680a83274955794624b6.jpg" group-title="APPLE TV+",Fundação S01 E04
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E05" tvg-logo="http://ccdnblck.xyz:80/images/1b1880c5e07bd2465ff80ff74b16b522.jpg" group-title="APPLE TV+",Fundação S01 E05
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E06" tvg-logo="http://ccdnblck.xyz:80/images/3255d1f691efc3eb55596aba6be8c844.jpg" group-title="APPLE TV+",Fundação S01 E06
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E07" tvg-logo="http://ccdnblck.xyz:80/images/8810f9a9154f55d645beedee267154ef.jpg" group-title="APPLE TV+",Fundação S01 E07
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E08" tvg-logo="http://ccdnblck.xyz:80/images/dfe8226b9f4050e731fd4ddfb9effbd8.jpg" group-title="APPLE TV+",Fundação S01 E08
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fundação S01 E09" tvg-logo="http://ccdnblck.xyz:80/images/6d3cafcd54244cc1628462b753d33075.jpg" group-title="APPLE TV+",Fundação S01 E09
-http://sukitam.bccdn.xyz:80/series/7898723785892pw/897438238593pw/18421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E01" tvg-logo="http://ccdnblck.xyz:80/images/42fa42368b48beea061dfc920fd9811d.jpg" group-title="DISNEY+",The Mandalorian S01 E01
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E02" tvg-logo="http://ccdnblck.xyz:80/images/51c5a67344311fb875a4e3e2e5517f0e.jpg" group-title="DISNEY+",The Mandalorian S01 E02
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E03" tvg-logo="http://ccdnblck.xyz:80/images/9e2cdd4a4f1b0899926e1e46c3ce316b.jpg" group-title="DISNEY+",The Mandalorian S01 E03
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E04" tvg-logo="http://ccdnblck.xyz:80/images/5150cd47450399c8db5e99fcdd8f3506.jpg" group-title="DISNEY+",The Mandalorian S01 E04
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E05" tvg-logo="http://ccdnblck.xyz:80/images/e4ab3cc8bb189b56729d69a537989738.jpg" group-title="DISNEY+",The Mandalorian S01 E05
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E06" tvg-logo="http://ccdnblck.xyz:80/images/3f10534acd7394db05ff55c57e7b8e4a.jpg" group-title="DISNEY+",The Mandalorian S01 E06
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E07" tvg-logo="http://ccdnblck.xyz:80/images/f3f6b44f7f0df6d7fe79f1b7f636d87b.jpg" group-title="DISNEY+",The Mandalorian S01 E07
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S01 E08" tvg-logo="http://ccdnblck.xyz:80/images/2f7e2cb70b57807a804a3d650b4b4327.jpg" group-title="DISNEY+",The Mandalorian S01 E08
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E01" tvg-logo="http://ccdnblck.xyz:80/images/562ba0142e4a79b8f0272ee25bf57211.jpg" group-title="DISNEY+",The Mandalorian S02 E01
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E02" tvg-logo="http://ccdnblck.xyz:80/images/d4e7390380fe15a662012750495c8d27.jpg" group-title="DISNEY+",The Mandalorian S02 E02
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E03" tvg-logo="http://ccdnblck.xyz:80/images/dde1f00c51e1bf17acd5f105925d74cb.jpg" group-title="DISNEY+",The Mandalorian S02 E03
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E04" tvg-logo="http://ccdnblck.xyz:80/images/da705397bd546b478c5351f7df90230e.jpg" group-title="DISNEY+",The Mandalorian S02 E04
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E05" tvg-logo="http://ccdnblck.xyz:80/images/e3473a4ad0f9dad73ac68f694911f2f9.jpg" group-title="DISNEY+",The Mandalorian S02 E05
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E06" tvg-logo="http://ccdnblck.xyz:80/images/2eeef03c0785bcdb02af890962343932.jpg" group-title="DISNEY+",The Mandalorian S02 E06
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E07" tvg-logo="http://ccdnblck.xyz:80/images/8a4037ac7f4eba14d1166ba5579f3998.jpg" group-title="DISNEY+",The Mandalorian S02 E07
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S02 E08" tvg-logo="http://ccdnblck.xyz:80/images/eaebe009db8a18b2d19e161e48752a0e.jpg" group-title="DISNEY+",The Mandalorian S02 E08
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/37497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian S03 E01" tvg-logo="http://image.tmdb.org/t/p/w300/cTFCkXR6fl6ElWQTE2efODHdW96.jpg" group-title="DISNEY+",The Mandalorian S03 E01
+http://sukitam.bccdn.xyz:80/series/Bruno0742/Bruno260317/86049.mp4
